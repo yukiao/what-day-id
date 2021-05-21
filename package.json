@@ -1,6 +1,6 @@
 {
   "name": "what-day-id",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple javascript library to convert time to Indonesian date format",
   "main": "index.js",
   "author": "yukiao",
