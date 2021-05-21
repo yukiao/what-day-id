@@ -7,13 +7,13 @@ A simple javascript library to convert time to Indonesian date format
 Using npm
 
 ```
-$npm install what-day-id
+$ npm install what-day-id
 ```
 
 Using yarn
 
 ```
-$yarn add what-day-id
+$ yarn add what-day-id
 ```
 
 ## Example
